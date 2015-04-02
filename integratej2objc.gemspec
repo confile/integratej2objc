@@ -1,7 +1,7 @@
 # coding: utf-8
 Gem::Specification.new do |spec|
   spec.name          = "integratej2objc"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Jon Nolen"]
   spec.email         = ["jon.nolen@gmail.com"]
   spec.summary       = %q{Provides integratej2objc executable which takes generated source files and replaces or adds a group to an Xcode Project file.}
